@@ -161,13 +161,13 @@ p img {
   -----------------------------------------------------------------*/
 
 body {
-    background-image: url("./images/bg.png");
-    background-image: url("./images/bg-2.png"), url("./images/bg.png");
+    background-image: url("bg.png");
+    background-image: url("bg-2.png"), url("bg.png");
     background-repeat: no-repeat, repeat;
 }
 
 #header {
-    background-image: url("./images/city-1920-175.jpg");
+    background-image: url("city-1920-175.jpg");
     background-repeat: no-repeat;
     background-position: 50% 50%;
 }
